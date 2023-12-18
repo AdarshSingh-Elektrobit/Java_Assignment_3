@@ -1,4 +1,4 @@
-Note
+ASSIGNMENT -3
 
 In this assignment You must have to create method first and then call it in main.
 
